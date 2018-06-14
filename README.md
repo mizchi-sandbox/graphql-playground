@@ -13,7 +13,7 @@ npm start
 front <=> graphql
 ```
 
-See `scheam.graphql`, `agreed.js`, `graphql-server/resolvers.js`
+See `scheam.graphql`, `graphql-server/mocks.js`
 
 ## How to check graphql
 
