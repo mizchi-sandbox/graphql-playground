@@ -10,7 +10,7 @@ npm start
 - localhost:3001 graphql
 
 ```
-front <=> graphql <=> agreed
+front <=> graphql
 ```
 
 See `scheam.graphql`, `agreed.js`, `graphql-server/resolvers.js`
